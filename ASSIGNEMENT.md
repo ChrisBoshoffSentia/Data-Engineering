@@ -3,7 +3,7 @@ Welcome to Sentia Recruitment
 The purpose of this repository is to provide an assignment that will highlight the strengths required by a cloud data engineer in our public cloud consultancy workforce.
 ## Table of content
 - [General Information](#general-information)
-- [Assignment](#assignment)
+- [Assignment](#assignment) c
     - [Part 1 - Creation of an ETL process and deployment](#part-1---Creation-of-an-ETL-process-and-deployment)
     - [Part 2 - CI/CD](#part-2---cicd)
 - [Deliverables](#deliverables)
@@ -15,7 +15,7 @@ Please be aware of the fact that we are not only looking at the actual deliverab
 
 ## Assignment
 ### Part 1 - Creation of an ETL process and deployment
-You have participated in a meeting with a client to assess their strategy to migrate to the public cloud. They are currently disclosing 10 data sources on multiple platforms. What they want the data sources to be extracted, transformed and Loaded to the public cloud. This is to have them available for their data scientists. The past few months, they have been having a lot of issues with small files. The current ETL processes where not created correctly.In the design there should be an approach how to prevent this from happening. Their current landscape consists of Informatica for ingress, Spark for transformation and SQL warehouse as a data warehouse. All of these need to be transformed to cloudnative solutions if possible. Please explain in the design why you decided on what. 
+You have participated in a meeting with a client to assess their strategy to migrate to the public cloud. They are currently disclosing 10 data sources on multiple platforms. What they want the data sources to be extracted, transformed and Loaded to the public cloud. This is to have them available for their data scientists. The past few months, they have been having a lot of issues with small files. The current ETL processes where not created correctly.In the design there should be an approach how to prevent this from happening. Their current landscape consists of Informatica for ingress, Spark for transformation and SQL warehouse as a data warehouse. All of these need to be transformed to cloudnative solutions if possible. Please explain in the design why you decided on what.
 The solution needs to:
 * be scalable and flexible.
 * be futureproof and expandable with new data pipelines.
